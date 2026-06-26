@@ -54,7 +54,6 @@ dotnet run
 
 ## References
 
-
 **Documentation**: https://blazor.syncfusion.com/documentation/combobox/templates
 
 **Online examples**: https://blazor.syncfusion.com/demos/combobox/template?theme=fluent2
